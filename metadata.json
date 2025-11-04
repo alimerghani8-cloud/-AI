@@ -1,0 +1,5 @@
+{
+  "name": "MOGRAT TEXT DETECTOR",
+  "description": "An elegant Arabic-language web application to detect whether a text was written by AI or a human, featuring a user counter, dark mode, PDF reports, and local history.",
+  "requestFramePermissions": []
+}
